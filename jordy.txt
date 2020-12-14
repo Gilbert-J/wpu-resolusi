@@ -1,0 +1,5 @@
+Rencana Konten Jordy
+ -javascript
+ -php framework
+ -interview
+ -vlog
