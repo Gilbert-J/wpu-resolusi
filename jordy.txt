@@ -4,6 +4,7 @@ Rencana Konten Jordy
   * Framework javascript
    ^ vue
    ^ React
+ - c++
  -struktur dasar data
  -php framework
   * Laravel
