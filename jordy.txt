@@ -2,8 +2,8 @@ Rencana Konten Jordy
  - javascript
   * ES6
   * Framework javascript
-   ^ vue
    ^ React
+   ^ nodeJS
  - c++
  -struktur dasar data
  -php framework
@@ -11,3 +11,13 @@ Rencana Konten Jordy
  - interview
  - vlog
  - python
+
+ -javascript
+  *ES6
+  *Framework javascript
+   ^ Angular
+   ^ react
+ -php framewor
+  *laravel
+ -interview
+ -vlog
